@@ -1,0 +1,9 @@
+{
+  "name": "Monad NFT #0",
+  "description": "Premier NFT déployé sur Monad Testnet",
+  "image": "ipfs://bafkreiflvh2n25pkujsp42kpp3iwnjanj2yuojr4kn43ihxwnhskfrq4km/monad-logo-coins-3d-render-260nw-2547786571.webp",
+  "attributes": [
+    { "trait_type": "Network", "value": "Monad Testnet" },
+    { "trait_type": "Type", "value": "Genesis NFT" }
+  ]
+}
